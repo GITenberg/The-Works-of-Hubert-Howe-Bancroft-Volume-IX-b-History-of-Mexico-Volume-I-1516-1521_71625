@@ -1,0 +1,31 @@
+_repo: The-Works-of-Hubert-Howe-Bancroft-Volume-IX-b-History-of-Mexico-Volume-I-1516-1521_71625
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bancroft, Hubert Howe
+    birthdate: 1832
+    deathdate: 1918
+    gutenberg_agent_id: '944'
+    url: http://www.gutenberg.org/2009/agents/944
+    wikipedia: https://en.wikipedia.org/wiki/Hubert_Howe_Bancroft
+description: ''
+gutenberg_issued: '2023-09-12'
+identifiers:
+  gutenberg: '71625'
+language: en
+pgterms:marc904: https://archive.org/details/worksofhubertho09banc
+pgterms:marc905: 20061026090338bancroft
+pgterms:marc906: '1883'
+pgterms:marc907: US
+production_note: Melissa McDaniel and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aSan Francisco :$bA. L. Bancroft & Company, $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Works of Hubert Howe Bancroft, Volume IX : $b History of Mexico, Volume
+  I, 1516-1521'
+url: http://www.gutenberg.org/ebooks/71625
