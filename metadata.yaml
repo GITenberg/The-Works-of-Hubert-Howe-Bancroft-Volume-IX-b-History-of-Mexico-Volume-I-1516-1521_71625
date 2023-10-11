@@ -1,5 +1,8 @@
 _repo: The-Works-of-Hubert-Howe-Bancroft-Volume-IX-b-History-of-Mexico-Volume-I-1516-1521_71625
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71625-h/images/cover.png
 creator:
   author:
     agent_name: Bancroft, Hubert Howe
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/944
     wikipedia: https://en.wikipedia.org/wiki/Hubert_Howe_Bancroft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71625#The-Works-of-Hubert-Howe-Bancroft-Volume-IX-b-History-of-Mexico-Volume-I-1516-1521
 gutenberg_issued: '2023-09-12'
 identifiers:
   gutenberg: '71625'
